@@ -5,7 +5,7 @@ import tkinter as tk
 # =========================
 
 window = tk.Tk()
-window.title("Dine Calculator")
+window.title("COD Calculator")
 window.geometry("400x650")
 window.configure(bg="#000000")
 window.resizable(False, False)
