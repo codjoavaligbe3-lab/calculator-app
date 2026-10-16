@@ -1,39 +1,68 @@
 # COD Calculator 🧮
 
-A Python calculator project built as part of my programming journey.
+A Python desktop calculator developed as part of my programming journey.
 
-## About
+## 📌 About
 
-COD Calculator is a project I created to practice Python programming and develop my problem-solving skills.
+COD Calculator is a desktop application created to practice Python programming, develop problem-solving skills, and explore graphical user interface (GUI) development.
 
-## Features
+## ✨ Features
 
 - Performs basic arithmetic calculations.
-- Provides a simple way to practice calculator operations.
+- Provides a graphical user interface.
+- Includes buttons to perform calculations and clear the input.
+- Supports packaging as a Windows executable.
 
-## Technologies
+## 🛠️ Technologies
 
-- Python 3
+- **Python 3** — Application logic
+- **Tkinter** — Graphical user interface
+- **PyInstaller** — Windows executable packaging
 
-## How to Run
+## 📸 Application Preview
+
+*Screenshot coming soon.*
+
+## 🚀 How to Run
+
+### Run with Python
 
 1. Install Python 3.
-2. Download or clone this repository.
+2. Clone this repository:
+
+   ```bash
+   git clone https://github.com/codjoavaligbe3-lab/calculator-app.git
+   ```
+
 3. Open a terminal in the project folder.
-4. Run the Python file:
+4. Run the application:
 
-```bash
-python calculator.py
-```
+   ```bash
+   python calculator_gui.py
+   ```
 
-Replace `calculator.py` with the actual name of your Python file if it is different.
+If you want to run the command-line version instead, use `python calculator.py`.
 
-## Learning Goals
+### Windows Executable
 
-- Practice Python fundamentals.
-- Improve problem-solving skills.
-- Learn to organize and document software projects.
+The project includes support for packaging the application as a Windows executable. If a compatible executable is available, it can be run on a Windows computer.
+
+## 🎯 Learning Goals
+
+- Practice Python programming fundamentals.
+- Develop a graphical desktop application.
+- Improve problem-solving and debugging skills.
+- Learn software packaging and project documentation.
+- Practice using GitHub to showcase projects.
+
+## 👨‍💻 Author
+
+**Codjo Avaligbe**
+
+Cybersecurity Student at Des Moines Area Community College (DMACC).
+
+Interested in networking, IT, and cybersecurity.
 
 ---
 
-Created by Codjo Avaligbe.
+*This project is part of my technical learning portfolio.*
