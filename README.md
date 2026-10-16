@@ -21,7 +21,24 @@ COD Calculator is a desktop application created to practice Python programming, 
 
 ## 📸 Application Preview
 
-*Screenshot coming soon.*
+![COD Calculator Interface](cod-calculator.png)
+
+## ✨ Features
+
+- **Arithmetic operations:** Addition, subtraction, multiplication, and division.
+- **Percentage:** A dedicated percentage button.
+- **Parentheses:** Support for parentheses in calculations.
+- **Clear button:** Clear the current calculation.
+- **Backspace button:** Remove the last entered character.
+- **History button:** Access the calculation history interface.
+- **Custom GUI:** A dark interface with color-coded buttons.
+- **Windows executable support:** Package the application for Windows.
+
+## 🛠️ Technologies
+
+- Python 3
+- Tkinter
+- PyInstaller
 
 ## 🚀 How to Run
 
